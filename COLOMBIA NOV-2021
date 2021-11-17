@@ -89,8 +89,6 @@ https://vcp.myplaytv.com/oxigenotv/oxigenotv/.m3u8
 https://byecableiptv.com/telepasto/Telepasto.stream/chunklist_w1325377644.m3u8
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-cnEF-Jb4oZk/XzghpFYoQLI/AAAAAAAA4YE/syrJvA2xcmwQRvs5Df5FlbVl40HBIRUeQCK8BGAsYHg/s0/2020-08-15.jpg",CARACOL AHORA
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-Z1-m9ZjVCNQ/XbjmzF2pDyI/AAAAAAAAr1M/4B0gHQh9sHAx8H-G2kS3mqgVYuwGSeofwCK8BGAsYHg/s0/2019-10-29.png",AM CANAL
-https://v2.tustreaming.cl/amtv/live1/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://www.canal2.co/wp-content/uploads/2017/02/logo-2.png",VALLE  TELEVISION
 https://video13.virtualtronics.com/streamer/canal2_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/teleritmo-logo.png" group-title="MUSICA",TELERITMO
