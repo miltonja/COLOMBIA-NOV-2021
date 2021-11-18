@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/C/caracol-television-2003-2012-logo-A38C2D1DD4-seeklogo.com.png" group-title="Colombia", Caracol Ahora NOTICIAS WEB
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/5t1sCyr5/BEIN-SPORTS-EXTRA-MODIF.png",Bein Sport Xtra Español
 https://beinesp-roku.amagi.tv/playlist.m3u8
 #EXTINF: -1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Claro_Sports_logo.svg",Claro Sports
