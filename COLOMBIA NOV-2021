@@ -3,10 +3,10 @@
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e1eb0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=180d9c2e-993f-4454-ac06-0f43e4f8058c&userId=&serverSideAds=true
 #EXTINF: -1 tvg-logo = "https://pbs.twimg.com/profile_images/1371443145578311687/ZqIagA15_400x400.jpg" group-title = "DEPORTE", VTV
 http://compitv.info:8080/Ulises45/gH8ZpaSLqx/64451
-#EXTINF: -1 tvg-logo = "https://i.postimg.cc/y6jkGPGP/ESTADIO-TNT-SPORTS-MODIF.png" group-title = "DEPORTE", ESTADIO 
-https://nedmedia.akamaized.net/hls/live/2034243/feed1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c6G0J4bQ/1200px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="DEPORTE", DIRECTV SPORT
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+#EXTINF: -1 tvg-logo = "https://i.postimg.cc/50rtR01g/ESTADIO-TNT-SPORTS-ESP.png" group-title = "DEPORTE", ESTADIO 
+https://nedmedia.akamaized.net/hls/live/2034243/feed1/master.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/C/caracol-television-2003-2012-logo-A38C2D1DD4-seeklogo.com.png" group-title="Colombia", Caracol Ahora NOTICIAS WEB
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/5t1sCyr5/BEIN-SPORTS-EXTRA-MODIF.png",Bein Sport Xtra Español
