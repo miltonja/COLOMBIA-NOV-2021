@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="XHJKTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/1.1.png" group-title="Local",Azteca Uno (XHJK-TDT) [Not 24/7]
+http://190.122.96.187:8888/http/002
 #EXTINF:-1 tvg-id="CinemaMás.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/cinema--en-vivo-1438.png" group-title="Movies",Cinema+ (720p)
 https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieFe.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="http://moviefe.com/logo%20moviefe.png" group-title="Movies",MovieFe (360p)
@@ -135,6 +137,8 @@ https://streamyes.alsolnet.com/buturama/live/playlist.m3u8
 https://cloud2.streaminglivehd.com:1936/8118/8118/chunklist_w1718824862.m3u8
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/TyVZ8Js.png" group-title = "Colombia", MUNDO + | HD | LA CEJA
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+#EXTINF:-1 tvg-id="SoniderosTV.us" tvg-country="US;MX" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/www.sonideros.tv/picture?width=320&height=320" group-title="Music",Sonideros TV (360p) [Not 24/7]
+https://tv2.fastcast4u.com:3728/live/soniderostvlive.m3u8
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/ZBLy03G.png" group-title = "Colombia", CTV BARRANQUILLA | HD | 
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/chunklist_w387031486.m3u8
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/t4fi1s8.png" group-title = "Colombia", Canal C | HD | Cali
