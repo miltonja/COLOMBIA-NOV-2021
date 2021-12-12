@@ -39,6 +39,8 @@ https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 group-title="Premium Temp" tvg-logo="https://fotos.subefotos.com/b62fa8249ca5b8896bac575756af220ao.png",COLOMBIA RCN UHD
 https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZedBC_S9HxRGJ3LY5bqWDww)/dm/3/x7vyv0z/s/live-0.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.imgur.com/jy6NXHI.png",UNO HD
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 #EXTINF:-1 tvg-id="CanalSonTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/BvdDvJRb/SON-TV-COLOMBIA.png" group-title="Music",Canal Son TV (360p) [Not 24/7]
 https://server12.videostreaming.net:3628/stream/play.m3u8
 #EXTINF:-1  tvg-logo="https://www.canalvisiondorada.com.co/images/NUEVO-LOGO-CANAL-VISION-DORADA.png",Canal Visión Dorada
