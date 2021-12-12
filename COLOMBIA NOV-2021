@@ -1,5 +1,4 @@
-#EXTINF: -1 tvg-logo="https://i.imgur.com/yTfde9d.png" group-title="Canales de TV", Telemundo 40 Arizona | SD | Estados Unidos
-https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/351075915
+
 #EXTINF:-1 tvg-id="CinemaMás.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/cinema--en-vivo-1438.png" group-title="Movies",Cinema+ (720p)
 https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieFe.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="http://moviefe.com/logo%20moviefe.png" group-title="Movies",MovieFe (360p)
@@ -39,8 +38,7 @@ https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXFL6Byb/CARACOL-NOTICIAS-AHORA-ESP.png" group-title="COLOMBIA", CARACOL NOTICIAS AHORA | HD | 
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 group-title="Premium Temp" tvg-logo="https://fotos.subefotos.com/b62fa8249ca5b8896bac575756af220ao.png",COLOMBIA RCN UHD
-https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZSro4Xs_pRrI3_OF1de54fQ)/dm/3/x7vyv0z/s/live-0.m3u8
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.imgur.com/jy6NXHI.png",UNO HD
+https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZedBC_S9HxRGJ3LY5bqWDww)/dm/3/x7vyv0z/s/live-0.m3u8
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 #EXTINF:-1 tvg-id="CanalSonTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/BvdDvJRb/SON-TV-COLOMBIA.png" group-title="Music",Canal Son TV (360p) [Not 24/7]
 https://server12.videostreaming.net:3628/stream/play.m3u8
