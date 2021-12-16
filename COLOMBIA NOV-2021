@@ -9,6 +9,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d
 http://compitv.info:8080/Ulises45/gH8ZpaSLqx/64451
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/C/caracol-television-2003-2012-logo-A38C2D1DD4-seeklogo.com.png" group-title="Colombia", Caracol Ahora NOTICIAS WEB
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c6G0J4bQ/1200px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="DEPORTE", DIRECTV SPORT
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/5t1sCyr5/BEIN-SPORTS-EXTRA-MODIF.png",Bein Sport Xtra Español
 https://beinesp-roku.amagi.tv/playlist.m3u8
 #EXTINF: -1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Claro_Sports_logo.svg",Claro Sports
@@ -81,6 +83,8 @@ http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m
 http://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1w7dSu.png" group-title="Musicales", RANCHENATO TV| SD | Colombia
 https://byecableiptv.com/ranchenato/ranchenato.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/k402qp58/TVN-GLOBAL.png",TVN Global (614p) [Not 24/7]
+https://stmv2.voxtvhd.com.br/tvnglobal/tvnglobal/playlist.m3u8
 #EXTINF:-1 group-title="Canales Solo Ip Colombia" tvg-logo="https://i.imgur.com/vVBz2v6.png",RED + Mas FHD
 http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/Stream(04)/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://i.imgur.com/fyPHgEH.png",TELEMUSICA
