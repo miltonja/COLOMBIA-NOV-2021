@@ -118,8 +118,8 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 https://live.admefy.com/live/240/clean_peach_ef224.m3u8
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-tLgCyvI0mh0/XzgjQo6Q8xI/AAAAAAAA4ZM/Su9yAKHJ1dcKi55je1HpyPWfT1JrrX5ZgCK8BGAsYHg/s0/2020-08-15.jpg",UAO Play
 https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-1500/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i2.wp.com/melodychannel.tv/wp-content/uploads/2021/01/cropped-logoMelody-2.png?resize=150%2C150&ssl=1" group-title="MUSICA", MELODY CHANNEL
-https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/chunklist_b1398304.m3u8
+#EXTINF:-1 tvg-id="MelodyChannelColombia.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://melodychannel.tv/wp-content/uploads/2021/01/cropped-logoMelody-2.png" group-title="Music",Melody Channel Colombia (480p)
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playlist.m3u8
 #EXTINF: -1 group-title="ESPAÑA" tvg-logo="https://i.imgur.com/8s6aRwv.png",TASTEMADE EN  ESPAÑOL
 https://tastemade-es8intl-roku.amagi.tv/hls/amagi_hls_data_tastemade-tastemade-es8intl-roku/CDN/playlist.m3u8
 #EXTINF: -1 group-title="COLOMBIA" tvg-logo="https://cdn.colombia.com/canales/tdi-colombia-4792.jpg",TDI COLOMBIA (936p) [Not 24/7]
