@@ -156,6 +156,8 @@ https://stmv1.panelzcast.com/asondesalsa/asondesalsa/playlist.m3u8
 https://5ee0faac3bbae.streamlock.net/raditropical/raditropical/playlist.m3u8
 #EXTINF:-1 tvg-id="139" tvg-name="UAO Play" tvg-logo="https://www.m3u.cl/logo/139_UAO_Play.jpg", UAO Play | CO
 https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-1500/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="119" tvg-name="Canal Trece" tvg-logo="https://www.m3u.cl/logo/119_Canal_Trece.png", Canal Trece | CO
+https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 
 
 
