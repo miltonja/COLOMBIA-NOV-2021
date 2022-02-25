@@ -74,8 +74,8 @@ https://liveingesta118.cdnmedia.tv//telemedellintvlive/smil:dvrlive.smil/chunkli
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 #EXTINF:-1  group-title="COLOMBIA" tvg-logo="https://t46.90f.myftpupload.com/wp-content/uploads/2020/08/cropped-Logo-LATAM-Horizontal-solo-alfa.png",ATV SOACHA (CUNDINAMARCA)
 https://movil.ejeserver.com/live/verteve.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108314_Mix_24_7_Top_100.png" group-title="MUSICA 2", MIX 24/7 TOP 100
-http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/2.m3u8
+#EXTINF:-91 tvg-logo="https://i.postimg.cc/d35b060v/latinosup.png" group-title="NOVELAS Y TALKSHOWS", LATINOS UP
+https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1928770453.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FVrjWLJ/VALLENATO_TV.png" group-title="MUSICA",Vallenato Internacional
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-oQeOqMawVCU/Xzggl8YItaI/AAAAAAAA4Xk/2ZycTmlXp7YRqb869EPklzN757mv0uDoACK8BGAsYHg/s0/2020-08-15.jpg",Canal CNC Medellin
