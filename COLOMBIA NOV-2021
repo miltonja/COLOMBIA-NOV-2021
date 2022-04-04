@@ -85,8 +85,6 @@ https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.
 https://live.yowi.tv/f8c87cd531ccd9f6b6ba/master.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.imgur.com/6d2fOjq.png",SURAM  TV
 https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/chunklist_w1875220129.m3u8
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.imgur.com/PAVd3LS.png",TELE ISLAS (Opt-1)
-http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-bYWyyOcC2x4/XzgjJoWSgjI/AAAAAAAA4ZI/qdACJcxyvH0GPd6j7ptRXf-ZksfqKlIzQCK8BGAsYHg/s0/2020-08-15.jpg",TV AGRO
 http://179.1.7.198:1935/live/TVAgroHD.stream_360p/chunklist_w842594670.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SPg5HX9/o2.png" group-title="Musicales", OXIGENO TV | SD | Venezuela
@@ -139,8 +137,6 @@ https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/play
 https://stmv1.panelzcast.com/asondesalsa/asondesalsa/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTropicalTarapoto.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/MZtJG1mk/TROPICAL-TARAPOTO.png" group-title="Local",Radio Tropical Tarapoto (480p) [Not 24/7]
 https://5ee0faac3bbae.streamlock.net/raditropical/raditropical/playlist.m3u8
-#EXTINF:-1 tvg-id="139" tvg-name="UAO Play" tvg-logo="https://www.m3u.cl/logo/139_UAO_Play.jpg", UAO Play | CO
-https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-1500/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="119" tvg-name="Canal Trece" tvg-logo="https://www.m3u.cl/logo/119_Canal_Trece.png", Canal Trece | CO
 https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 
