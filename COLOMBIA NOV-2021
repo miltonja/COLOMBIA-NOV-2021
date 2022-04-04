@@ -11,8 +11,6 @@ https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/5t1sCyr5/BEIN-SPORTS-EXTRA-MODIF.png",Bein Sport Xtra Español
 https://beinesp-roku.amagi.tv/playlist.m3u8
-#EXTINF: -1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Claro_Sports_logo.svg",Claro Sports
-http://45.179.140.242:8000/play/a0ht
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OjJ1dVF.png" group-title="Deportes", Futbol Network | HD | Estados Unidos
 https://59d39900ebfb8.streamlock.net/8312/8312/playlist.m3u8
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/v9HdU7z.png" group-title = "Perú", Panamericana | SD | Lima
@@ -35,8 +33,6 @@ https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 group-title="Premium Temp" tvg-logo="https://fotos.subefotos.com/b62fa8249ca5b8896bac575756af220ao.png",COLOMBIA RCN UHD
 https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZQyuEbmpSvy9PYPO-r4tfoo)/dm/3/x7vyv0z/s/live-2.m3u8
-#EXTINF:-1 tvg-id="NOVELAS" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/rFS6RgCY/rcn-novelas.png" group-title="Entertainment",Canal RCN Novelas (432p)
-http://45.179.140.242:8000/play/a0jf
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.imgur.com/jy6NXHI.png",UNO Hd
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 #EXTINF:-1 tvg-id="CanalSonTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/BvdDvJRb/SON-TV-COLOMBIA.png" group-title="Music",Canal Son TV (360p) [Not 24/7]
