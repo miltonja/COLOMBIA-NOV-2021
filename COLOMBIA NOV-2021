@@ -5,8 +5,6 @@ https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8
 https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1981wXY/MTV-ESP.png" group-title="REALITY", MTV LATINO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e1eb0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=180d9c2e-993f-4454-ac06-0f43e4f8058c&userId=&serverSideAds=true
-#EXTINF: -1 tvg-logo = "https://pbs.twimg.com/profile_images/1371443145578311687/ZqIagA15_400x400.jpg" group-title = "DEPORTE", VTV
-http://compitv.info:8080/Ulises45/gH8ZpaSLqx/64451
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/C/caracol-television-2003-2012-logo-A38C2D1DD4-seeklogo.com.png" group-title="Colombia", Caracol Ahora NOTICIAS WEB
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c6G0J4bQ/1200px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="DEPORTE", DIRECTV SPORT
@@ -17,10 +15,6 @@ https://beinesp-roku.amagi.tv/playlist.m3u8
 http://45.179.140.242:8000/play/a0ht
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OjJ1dVF.png" group-title="Deportes", Futbol Network | HD | Estados Unidos
 https://59d39900ebfb8.streamlock.net/8312/8312/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/LBJmDSy.png" group-title=" Canales Solo Ip Colombia ", Antena 3
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1/tu1_2.m3u8
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/nXOHzqA.png" group-title = "Perú", Latina | HD | Lima
-https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/319698305
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/v9HdU7z.png" group-title = "Perú", Panamericana | SD | Lima
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/ThA7Ss3.png" group-title = "Juveniles", Simpsons TV | HD | Chile
