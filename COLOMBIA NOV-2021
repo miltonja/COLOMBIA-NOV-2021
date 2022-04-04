@@ -133,10 +133,6 @@ https://vps-c97214f4.vps.ovh.net/hls/ecutv2.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
 #EXTINF:-1 tvg-id="UNOPLAY.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RReDi1C.png" group-title="Entertainment",UNO PLAY (720p) [Not 24/7]
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
-#EXTINF:-1 tvg-id="ASondeSalsa.pa" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/asondesalsa/picture?width=320&height=320" group-title="Music",A Son de Salsa (720p) [Not 24/7]
-https://stmv1.panelzcast.com/asondesalsa/asondesalsa/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioTropicalTarapoto.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/MZtJG1mk/TROPICAL-TARAPOTO.png" group-title="Local",Radio Tropical Tarapoto (480p) [Not 24/7]
-https://5ee0faac3bbae.streamlock.net/raditropical/raditropical/playlist.m3u8
 #EXTINF:-1 tvg-id="119" tvg-name="Canal Trece" tvg-logo="https://www.m3u.cl/logo/119_Canal_Trece.png", Canal Trece | CO
 https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 
