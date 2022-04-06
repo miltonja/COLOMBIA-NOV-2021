@@ -13,6 +13,8 @@ http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 https://beinesp-roku.amagi.tv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OjJ1dVF.png" group-title="Deportes", Futbol Network | HD | Estados Unidos
 https://59d39900ebfb8.streamlock.net/8312/8312/playlist.m3u8
+#EXTINF: -1 group-title="Deportes" tvg-logo="https://i.postimg.cc/5y1QmBFR/CLARO-SPORTS.jpg",Claro Sports
+http://45.179.140.242:8000/play/a0ht
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/v9HdU7z.png" group-title = "Perú", Panamericana | SD | Lima
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/ThA7Ss3.png" group-title = "Juveniles", Simpsons TV | HD | Chile
