@@ -62,6 +62,8 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1
 http://api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://fotos.subefotos.com/3a1e1286b3cc7004ed7386a458332f75o.png" group-title="Colombia", CANAL TRO (BUCARAMANGA)
 http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="CO" tvg-language="" tvg-logo="https://i.postimg.cc/YS6vsHrH/ATN-Televisi-n.png" group-title="Undefined",ATN Televisión (Cúcuta | Norte de Santander) (640p)
+https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/29DQNPy.png",TELE MEDELLIN
 https://liveingesta118.cdnmedia.tv//telemedellintvlive/smil:dvrlive.smil/chunklist_b900000_DVR.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.imgur.com/jy6NXHI.png",UNO HD
