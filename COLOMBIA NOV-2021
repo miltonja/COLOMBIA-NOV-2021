@@ -1,4 +1,5 @@
-
+#EXTINF:-1 tvg-id="" tvg-country="PE" tvg-language="" tvg-logo="https://autenticatv.pe/wp-content/uploads/elementor/thumbs/logo-web-p0scrodaccuo3azseya6goo9amqk8hdut43cbpqb5s.png" group-title="Undefined",Auténtica Televisión (720p) [Not 24/7]
+https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 tvg-id="CinemaMás.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/cinema--en-vivo-1438.png" group-title="Movies",Cinema+ (720p)
 https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieFe.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="http://moviefe.com/logo%20moviefe.png" group-title="Movies",MovieFe (360p)
