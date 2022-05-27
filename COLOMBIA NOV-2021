@@ -79,7 +79,7 @@ http://38.75.136.76:1935/cncmedellin720/canalcncmedellin.stream_720p/chunklist_w
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/jjg50gfZ/CANAL-SEIS-BOGOTA.png",Canal Seis Bogota
 http://190.93.137.61:1935/live/canal6/playlist.m3u8
 #EXTINF:-1 group-title="Canales Solo Ip Colombia" tvg-logo="https://i.imgur.com/vVBz2v6.png",RED MAS 
-http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m3u8
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/01.m3u8
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.ytimg.com/vi/eSZ8fgHiWZ0/hqdefault.jpg",CAMPUSTV
 http://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1w7dSu.png" group-title="Musicales", RANCHENATO TV| SD | Colombia
@@ -87,7 +87,7 @@ https://byecableiptv.com/ranchenato/ranchenato.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/k402qp58/TVN-GLOBAL.png",TVN Global (614p) [Not 24/7]
 https://stmv2.voxtvhd.com.br/tvnglobal/tvnglobal/playlist.m3u8
 #EXTINF:-1 group-title="Canales Solo Ip Colombia" tvg-logo="https://i.imgur.com/vVBz2v6.png",RED + Mas FHD
-http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/Stream(04)/index.m3u8
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/01.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://i.imgur.com/fyPHgEH.png",TELEMUSICA
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lnE1QvY.png" group-title="España", Eurolatina | HD | Madrid
