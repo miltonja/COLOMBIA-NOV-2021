@@ -1,8 +1,6 @@
 #EXTINF:-1 tvg-id="" tvg-country="PE" tvg-language="" tvg-logo="https://autenticatv.pe/wp-content/uploads/elementor/thumbs/logo-web-p0scrodaccuo3azseya6goo9amqk8hdut43cbpqb5s.png" group-title="Undefined",Auténtica Televisión (720p) [Not 24/7]
 https://live.obslivestream.com/autenticatvmux/index.m3u8
-
-
-#EXTINF:-1 group-title="TELEMUNDO"tvg-logo="https://i.postimg.cc/FR5xgtJf/Telemundo-AL-DIA.png",TELEMUNDO INTERNACIONAL
+#EXTINF:-1 group-title="TELEMUNDO"tvg-logo="https://i.postimg.cc/0Q2kjPhr/MONSTER-JAM.png",MONSTER JAM AO VIVO
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1661647895/ei/t2cKY7emFZODy_sP1ICVoAI/ip/161.18.60.41/id/Khq-iQ0op58.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMovtRYp_Q6bZ4IF5WCq653ciefyGW0w5uONaAmdSERGAiAxD583w0JXWDI4u0uD_M_h7w531aXz-5XW7VmYIsIxwQ%3D%3D/file/index.m3u8
 #EXTINF:-1 group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/V6RSXgpV/City-TV.png",CITY TV /HD/
 https://citytv.cachefly.net/citytv1/citytv1/chunks.m3u8
