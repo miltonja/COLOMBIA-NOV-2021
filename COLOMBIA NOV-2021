@@ -1,10 +1,10 @@
 #EXTINF:-1 tvg-id="" tvg-country="PE" tvg-language="" tvg-logo="https://autenticatv.pe/wp-content/uploads/elementor/thumbs/logo-web-p0scrodaccuo3azseya6goo9amqk8hdut43cbpqb5s.png" group-title="Undefined",Auténtica Televisión (720p) [Not 24/7]
 https://live.obslivestream.com/autenticatvmux/index.m3u8
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/3N8TBvB5/CARACOL-DEGRADADO.png",Caracol HD
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/qgVF3G6X/CARACOL-ESP.png",Caracol HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/768
 #EXTINF:-1 group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/V6RSXgpV/City-TV.png",CITY TV /HD/
 https://citytv.cachefly.net/citytv1/citytv1/chunks.m3u8
-#EXTINF: -1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/kGg55ZLb/CABLE-NOTICIAS-CO-DEGRADADO.png",Cablenoticias |Bogotà |
+#EXTINF: -1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/qRzwz4pC/Cable-Noticias-azul.png",Cablenoticias |Bogotà |
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png", VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
