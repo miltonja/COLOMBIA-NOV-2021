@@ -2,7 +2,7 @@
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/1tFQDxHf/CARACOL-ESP.png",Caracol HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/768
-#EXTINF:-1 group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/V6RSXgpV/City-TV.png",CITY TV /HD/
+#EXTINF:-1 group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/FHKVP36Q/CITY-TV-BLANCO.png",CITY TV /HD/
 https://citytv.cachefly.net/citytv1/citytv1/chunks.m3u8
 #EXTINF: -1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/qRzwz4pC/Cable-Noticias-azul.png",Cablenoticias |Bogotà |
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
