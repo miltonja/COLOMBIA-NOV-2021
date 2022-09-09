@@ -83,13 +83,13 @@ https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 #EXTINF:-1 tvg-logo="https://sp-ao.shortpixel.ai/client/to_auto,q_lossy,ret_img/https://canalpyc.com/wp-content/uploads/2020/03/logo_blanco1-e1583948519322.png" group-title="Undefined",Canal PyC (Ibagué | Tolima) (360p)
 https://byecableiptv.com/canapycvivo/canalpyc.stream/playlist.m3u8
-#EXTINF:-1  group-title="COLOMBIA" tvg-logo="https://t46.90f.myftpupload.com/wp-content/uploads/2020/08/cropped-Logo-LATAM-Horizontal-solo-alfa.png",ATV SOACHA (CUNDINAMARCA)
+#EXTINF:-1  group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/3w8Y6CBj/ATV-SOACHA-esp.png",ATV SOACHA (CUNDINAMARCA)
 https://movil.ejeserver.com/live/verteve.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://i.postimg.cc/fbwbBrTr/euro-latina.png",EuroLatina TV España
 https://media2.streambrothers.com:1936/8150/8150/playlist.m3u8
 #EXTINF:-91 tvg-logo="https://i.postimg.cc/d35b060v/latinosup.png" group-title="NOVELAS Y TALKSHOWS", LATINOS UP
 https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1928770453.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FVrjWLJ/VALLENATO_TV.png" group-title="MUSICA",Vallenato Internacional
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/JnQTFZpX/VALLENATO-INT.png",Vallenato Internacional
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/dV6WmrQ3/CNC-MEDELLIN.png",Canal CNC Medellin
 http://38.75.136.76:1935/cncmedellin720/canalcncmedellin.stream_720p/chunklist_w1996142729.m3u8
