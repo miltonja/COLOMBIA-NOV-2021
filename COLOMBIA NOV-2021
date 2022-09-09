@@ -65,6 +65,8 @@ http://iptvcolombia.ddns.net:1936/canalcnc/canalcnc/chunklist.m3u8
 https://plataformavideo.com:19360/8020/8020.m3u8
 #EXTINF:-1 group-title="CANALES" tvg-logo="https://i.postimg.cc/mD83z8wJ/CTV-CAPRICHO-ESP.png",CTV CAPRICHO
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/k4RPyrjX/MAS-TELEVISION-ESP.png",Más TV
+https://video.ejeserver.com/live/teledoradahd.m3u8
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/Q8UqwhM.png",Tele pacifico
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://fotos.subefotos.com/ca255fe4e6597fd3364aa520d57cf6d1o.png",CANAL CAPITAL (Bogotá Colombia)
