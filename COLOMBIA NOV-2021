@@ -121,13 +121,13 @@ https://api.new.livestream.com/accounts/28238881/events/8574038/live.m3u8
 http://api.new.livestream.com/accounts/4885740/events/2294538/live.m3u8
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.postimg.cc/cH7fnZs4/BUENISIMA-RADIO-ESP.png",BUENISIMA RADIO TV
 https://streamyes.alsolnet.com/buturama/live/playlist.m3u8
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/6xat1QL.png" group-title = "Colombia", TV PEÑOL | HD | ANTIOQUIA
+#EXTINF: -1group-title = "Colombia" tvg-logo = "https://i.postimg.cc/fySp3Jwg/EL-PE-OL.png" , TV PEÑOL | HD | ANTIOQUIA
 https://cloud2.streaminglivehd.com:1936/8118/8118/chunklist_w1718824862.m3u8
-#EXTINF: -1 tvg-logo = "https://i.postimg.cc/T2QQXnw4/MUNDO.png" group-title = "Colombia", MUNDO + | HD | LA CEJA
+#EXTINF: -1group-title = "Colombia" tvg-logo = "https://i.postimg.cc/T2QQXnw4/MUNDO.png", MUNDO + | HD | LA CEJA
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/ZBLy03G.png" group-title = "Colombia", CTV BARRANQUILLA | HD | 
+#EXTINF: -1group-title = "Colombia" tvg-logo = "https://i.postimg.cc/BvLJ5QQH/CTV-BARRANQUILLA.png", CTV BARRANQUILLA | HD | 
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/chunklist_w387031486.m3u8
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/0vnvZ6Y.png" group-title = "Colombia", Cali TV | SD | Cali
+#EXTINF: -1group-title = "Colombia" tvg-logo = "https://i.postimg.cc/JhJ94yz6/CALI-TV.png", Cali TV | SD | Cali
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1 tvg-id="UNOPLAY.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RReDi1C.png" group-title="Entertainment",UNO PLAY (720p) [Not 24/7]
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
@@ -139,9 +139,9 @@ https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist
 https://api.new.livestream.com/accounts/ejtvla/events/2294538/live.m3u8
 #EXTINF:-1 tvg-id="EnlaceTelevision.co" tvg-logo="https://i.postimg.cc/SxG5sd6F/ENLACE-TELEVISION-COL.png" group-title="General",Enlace Televisión (Barrancabermeja | Santander) (720p) [Not 24/7]
 https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://teveo.com.co/player/AcAAAgAFAADLA1IAyADIQCAAAAAAAAAA.js
-#EXTINF: -1 tvg-logo = "https://i.postimg.cc/jdmJWXVZ/NORTE-VISION.png"group-title = "COLOMBIA",NORTE VISION HD
+#EXTINF: -1group-title = "COLOMBIA" tvg-logo = "https://i.postimg.cc/jdmJWXVZ/NORTE-VISION.png",NORTE VISION HD
 https://eu1.servers10.com:8081/8092/playlist.m3u8
-#EXTINF: -1 tvg-logo = "https://i.postimg.cc/ZnQ5dS32/zoom-tv.png"group-title = "COLOMBIA",ZOOM TV
+#EXTINF: -1group-title = "COLOMBIA" tvg-logo = "https://i.postimg.cc/ZnQ5dS32/zoom-tv.png",ZOOM TV
 https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="News",RT en Español (1080p) [Geo-blocked]
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
