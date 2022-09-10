@@ -53,6 +53,8 @@ https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 https://server12.videostreaming.net:3628/stream/play.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/RF49W8x7/CANAL-VISION-DORADA-COL.png",CANAL VISION DORADA
 https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://i.postimg.cc/gJxBV9tR/HOLA-PLAY-ESP.png",HOLA-2-ESP /HD/
+https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="CINE" tvg-logo="https://www.pngkit.com/png/full/642-6427641_delta-tv-youtube-channel-television.png",DELTA TV
 https://cm.hostlagarto.com:4445/deltatv/deltatv50.myStream/chunks.m3u8
 #EXTINF:-1 tvg-id="MemoriasTV.co" tvg-logo="https://i.postimg.cc/jSQtnhGL/MEMORIAS-TV-esp.png"group-title="Music",Memorias TV
