@@ -94,8 +94,8 @@ https://byecableiptv.com/canapycvivo/canalpyc.stream/playlist.m3u8
 https://movil.ejeserver.com/live/verteve.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://i.postimg.cc/fbwbBrTr/euro-latina.png",EuroLatina TV España
 https://media2.streambrothers.com:1936/8150/8150/playlist.m3u8
-#EXTINF:-91 tvg-logo="https://i.postimg.cc/d35b060v/latinosup.png" group-title="NOVELAS Y TALKSHOWS", LATINOS UP
-https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1928770453.m3u8
+#EXTINF:-1 group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/mrGTb4yG/thumbnail-Logo-Amordiscos-600x600-alpha.png",AMORDISCOS TV * |HD|
+https://stream.mediaserver.com.co:8088/hls/canalamordiscos_low.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/JnQTFZpX/VALLENATO-INT.png",Vallenato Internacional
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/dV6WmrQ3/CNC-MEDELLIN.png",Canal CNC Medellin
