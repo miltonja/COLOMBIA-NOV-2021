@@ -1,5 +1,6 @@
-#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://i.imgur.com/tKDzu9t.png" group-title="Sports",Win Sports+
-http://190.61.41.182:8000/play/a2lo/index.m3u8
+
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.postimg.cc/RCndys5h/ZONA-LATINA.png",Zona Latina
+http://200.24.132.99:8000/play/a01j
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/1tFQDxHf/CARACOL-ESP.png",Caracol HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/768
 #EXTINF:-1 group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/Qd31PPd5/CITY-TV-BLANCO.png",CITY TV /HD/
