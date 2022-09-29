@@ -4,6 +4,10 @@ http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/140.m3u8
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/62.m3u8
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://i.postimg.cc/RCndys5h/ZONA-LATINA.png",Zona Latina
 http://200.24.132.99:8000/play/a01j
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://x.playerlatino.live/winsportsplus.png",WIN SPORTS + * |HD|
+http://shortgod.com/list3100202/tv1.php?c=802
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/52dTxKjG/Win-Sports___blanco.png",WIN SPORTS + * |HD|
+http://shortgod.com/list3100202/tv1.php?c=754
 #EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://i.imgur.com/tKDzu9t.png" group-title="Sports",Win Sports+
 http://gratuita.mrzutv.net:8080/play/d--YksGCAb9N8Q5Fr0nSpbNGQV4KkP8lZO-2wYXmIjw
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/1tFQDxHf/CARACOL-ESP.png",Caracol HD
