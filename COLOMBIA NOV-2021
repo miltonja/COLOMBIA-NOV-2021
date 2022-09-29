@@ -8,6 +8,8 @@ http://200.24.132.99:8000/play/a01j
 http://shortgod.com/list3100202/tv1.php?c=802
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/52dTxKjG/Win-Sports___blanco.png",WIN SPORTS + * |HD|
 http://shortgod.com/list3100202/tv1.php?c=754
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://x.playerlatino.live/winsportsplus.png",WIN SPORTS + * |HD|
+http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/984
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/1tFQDxHf/CARACOL-ESP.png",Caracol HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/768
 #EXTINF:-1 group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/Qd31PPd5/CITY-TV-BLANCO.png",CITY TV /HD/
