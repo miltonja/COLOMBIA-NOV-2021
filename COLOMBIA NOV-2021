@@ -72,8 +72,6 @@ https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 https://cm.hostlagarto.com:4445/deltatv/deltatv50.myStream/chunks.m3u8
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1.png",Memorias TV
 https://mediacp.us:8081/8022/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="MemoriasTV.co" tvg-logo="https://i.postimg.cc/jSQtnhGL/MEMORIAS-TV-esp.png"group-title="Music",Memorias TV
-https://cloud10.vsgtech.co:3262/live/memoriastv2live.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.imgur.com/Hjc7XaY.png",Canal CNC Past
 https://hvtrafico.ddns.net/pastocnc9/cnc9/chunklist_w1447660526.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/G2KjG4CM/FARRA-PLAY.png",FARRA PLAY
