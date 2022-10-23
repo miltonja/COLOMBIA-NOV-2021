@@ -5,9 +5,7 @@ http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/62.m3u8
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://i.postimg.cc/RCndys5h/ZONA-LATINA.png",Zona Latina
 http://200.24.132.99:8000/play/a01j
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://x.playerlatino.live/winsportsplus.png",WIN SPORTS + * |HD|
-http://shortgod.com/list3100202/tv1.php?c=802
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/52dTxKjG/Win-Sports___blanco.png",WIN SPORTS + * |HD|
-http://shortgod.com/list3100202/tv1.php?c=754
+http://190.61.41.182:8000/play/a2lo/index.m3u8
 #EXTINF:-1 group-title="Samsung TV Plus" tvg-logo="https://i.postimg.cc/59z33y5Q/MASTER-ILUSION.png",MAESTROS DE LA ILUSION
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254ab6fa74f8e0007ba6879/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://x.playerlatino.live/winsportsplus.png",WIN SPORTS + * |HD|
