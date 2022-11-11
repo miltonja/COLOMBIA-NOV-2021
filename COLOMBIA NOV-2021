@@ -78,7 +78,7 @@ https://servidordevideo.co:3077/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CanalNets.co" tvg-logo="https://canalnets.com/wp-content/uploads/2022/05/netslogo.png" group-title="Undefined",Canal Nets
 https://video.ejeserver.com/live/nets.m3u8
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://fotos.subefotos.com/ca255fe4e6597fd3364aa520d57cf6d1o.png",CANAL CAPITAL (Bogotá Colombia)
-https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live-2000/index.m3u8
+https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live-2500/index.m3u8
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.postimg.cc/tTJbV8Mx/CANAL-INSTITUCIONAL.png",CANAL INSTITUCIONAL
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.postimg.cc/6ppyBrV5/SE-AL-COLOMBIA.png",SEÑAL COLOMBIA
