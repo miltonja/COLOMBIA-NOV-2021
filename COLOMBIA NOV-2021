@@ -72,7 +72,7 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/k4RPyrjX/MAS-TELEVISION-ESP.png",Más TV
 https://video.ejeserver.com/live/teledoradahd.m3u8
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/Q8UqwhM.png",Tele pacifico
-https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="1285" tvg-name="La Despechada TV" tvg-logo="https://i.postimg.cc/50S75Zn6/LA-DESPECHADA-BLANCO.png", La Despechada TV | CO
 https://servidordevideo.co:3077/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CanalNets.co" tvg-logo="https://canalnets.com/wp-content/uploads/2022/05/netslogo.png" group-title="Undefined",Canal Nets
