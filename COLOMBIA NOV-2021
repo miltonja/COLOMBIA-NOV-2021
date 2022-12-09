@@ -1,4 +1,5 @@
-
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo=https://i.postimg.cc/XNLm3y6M/win-sports-azul-celeste.png"" group-title="⚽|LAT| Deportes Latino⚽",WIN SPORTS + TV * |HD
+http://200.41.79.165:8000/play/a0js/index.m3u8
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://i.postimg.cc/RCndys5h/ZONA-LATINA.png",Zona Latina
 http://200.24.132.99:8000/play/a01j
 #EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://i.postimg.cc/Hx1Pg41X/WINSPORTS.png" group-title="Sports",WIN SPORTS  TV * |HD|
