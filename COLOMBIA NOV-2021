@@ -1,51 +1,19 @@
-#EXTINF:-1 tvg-id="WinSports.co" tvg-name="01 | WIN SPORTS HD" tvg-logo="https://i.postimg.cc/fWdq8mVT/WIN-SPORTS.png" group-title="COLOMBIA -PRIMERA A⚽",01 | WIN SPORTS HD
-http://186.28.229.135:8000/play/a05n/index.m3u8
-#EXTINF:-1 tvg-id="WinSports.co" tvg-name="01 | WIN SPORTS HD" tvg-logo="https://i.postimg.cc/fWdq8mVT/WIN-SPORTS.png" group-title="COLOMBIA -PRIMERA A⚽",01 | WIN SPORTS HD
-http://magmas5.com:8000/malotv/gratis/131982
-#EXTINF:-1 tvg-id="WinSports.co" tvg-name="02 | WIN SPORTS FHD " tvg-logo="https://i.postimg.cc/fWdq8mVT/WIN-SPORTS.png" group-title="COLOMBIA -PRIMERA A⚽",02 | WIN SPORTS FHD
-http://magmas5.com:8000/malotv/gratis/131983
-#EXTINF:-1 tvg-id="WinSports.co" tvg-name="03 | WIN SPORTS+ HD " tvg-logo="https://i.postimg.cc/5ycpq8Fs/WIN-SPORTS-TOMATE.png" group-title="COLOMBIA -PRIMERA A⚽",03 | WIN SPORTS+ HD
-http://186.28.229.135:8000/play/a07g/index.m3u8
-#EXTINF:-1 tvg-id="WinSports.co" tvg-name="03 | WIN SPORTS+ HD " tvg-logo="https://i.postimg.cc/5ycpq8Fs/WIN-SPORTS-TOMATE.png" group-title="COLOMBIA -PRIMERA A⚽",03 | WIN SPORTS+ HD
-http://magmas5.com:8000/malotv/gratis/131984
-#EXTINF:-1 tvg-id="WinSports.co" tvg-name="04 | WIN SPORTS + FHD" tvg-logo="https://i.postimg.cc/NMWrh86m/WIN-SPORTS-LILA.png" group-title="COLOMBIA -PRIMERA A⚽",04 | WIN SPORTS + FHD
-http://magmas5.com:8000/malotv/gratis/131985
 #EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://i.postimg.cc/XNLm3y6M/win-sports-azul-celeste.png"group-title="⚽|LAT| Deportes Latino⚽",WIN SPORTS + TV* |HD
 http://200.41.79.165:8000/play/a0js/index.m3u8
 #EXTINF:-1 tvg-id="WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/52dTxKjG/Win-Sports-blanco.png"group-title="⚽|LAT| Deportes Latino⚽",WIN SPORTS + TV* |HD
 http://190.60.37.69:8015/play/a049/index.m3u8
-#EXTINF:-1 tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/Wp7ywq5W/win-sports-Amarillo.png" group-title="|CO| Colombia",CO | ganar deportes +
-http://190.60.39.62:8000/play/a069
-#EXTINF:-1 tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/0jVBCh05/win_sports___morado.png" group-title="|CO| Colombia",CO | ganar deportes +
-http://45.232.211.196:1080/play/a05r
 #EXTINF:-1 tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/v8zC6VCh/win-sports -blanco.png" group-title="|CO| Colombia",CO | ganar deportes +
 http://200.110.169.237:8202/play/a04m
 #EXTINF:-1 tvg-id="WINSPRT" tvg-name="CO: Win Sports + FHD" tvg-logo="https://i.postimg.cc/VvT5vGVh/WINSPORTS-ROJO.png" group-title="|CO| Colombia",CO: Win Deportes + FHD
 http://190.131.247.82:8000/play/a06l
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/ZnhmRj8W/Win-Sports2017.png",WIN SPORTS  * |HD|
-http://181.129.186.36:8089/play/a00q/index.m3u8
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/ZnhmRj8W/Win-Sports2017.png",WIN SPORTS + * |HD|
-http://45.232.211.195:1080/play/a043
-#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://i.postimg.cc/Hx1Pg41X/WINSPORTS.png" group-title="⚽|LAT| Deportes Latino⚽",WIN SPORTS  TV * |HD|
-http://181.129.186.36:8089/play/a00q/index.m3u8
 #EXTINF:-1 tvg-id="1285" tvg-name="La Despechada TV" tvg-logo="https://i.postimg.cc/50S75Zn6/LA-DESPECHADA-BLANCO.png", La Despechada TV | CO
 https://servidordevideo.com:3077/stream/play.m3u8
 #EXTINF:-1 group-title="Samsung TV Plus" tvg-logo="https://i.postimg.cc/59z33y5Q/MASTER-ILUSION.png",MAESTROS DE LA ILUSION
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254ab6fa74f8e0007ba6879/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.postimg.cc/RCndys5h/ZONA-LATINA.png",Zona Latina
-http://200.24.132.99:8000/play/a01j
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/1tFQDxHf/CARACOL-ESP.png",Caracol HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/768
 #EXTINF: -1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/qRzwz4pC/Cable-Noticias-azul.png",Cablenoticias |Bogotà |
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:-1 tvg-id="InsightTV.nl" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Deportes",Insight TV (1080p)
 https://insighttv-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/P5nbnN0r/Telemundo-51.png",TELEMUNDO 51 MIAMI
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/657
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/SK0nVQkV/univision-noticias.png",UNIVISION USA HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668
-#EXTINF:-1 group-title="Int. Otros" tvg-logo="https://i.postimg.cc/ydxk9QWp/miami-tv-LATINO.png",Miami TV
-https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png", VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/1Xdzrg3K/MOVIE-FE.png",MovieFe (360p)
@@ -60,22 +28,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d
 https://beinesp-roku.amagi.tv/playlist.m3u8
 #EXTINF: -1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/cCtVgwKK/FUTBOL-NEW-YORK-ESP.png", Futbol Network | HD | Estados Unidos
 https://59d39900ebfb8.streamlock.net/8312/8312/playlist.m3u8
-#EXTINF: -1 group-title="Deportes" tvg-logo="https://i.postimg.cc/sfZgqQgq/CLARO-SPORTS.png",Claro Sports| HD |
-https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="https://i.postimg.cc/m24dsdvH/Panamericana.png", Panamericana | SD | Lima
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/K4SLPvTY/CANTINA-TV-ESP.png",Cantina TV | VE
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_ %28nuevo_logo%29.png" group-title="Indefinido",Telefe (720p)
-https://is-tucuman.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
 #EXTINF:-1group-title="Samsung TV Plus" tvg-logo="https://i.postimg.cc/0ymNQCXG/RCN-MAS.png",RCN Más
 https://933be29cc78d4056abd00e0743138931.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_RCNMas/playlist.m3u8?ads.wurl_channel=926&ads.wurl_name=RCNMas&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=9bebc5fe01e3531c8c73aa34b89a2fd0&ads.content_rating=TVPG&ads.tags=cat-spanish-language&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=latv&ads.rdid=67a4e34f-bc00-53a7-808e-817453df25bc&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.131+Mobile+Safari%2F537.36&is_lat=1&bmodel=bm1&content=9bebc5fe01e3531c8c73aa34b89a2fd0&platform=web&tags=cat-spanish-language&coppa=false&content_type=livefeed&rdid=67a4e34f-bc00-53a7-808e-817453df25bc&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=latv&channel_id=151908&channelStore=us
-#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Teleantioquia_logo.svg/512px-Teleantioquia_logo.svg.png" group-title="General",Teleantioquia (Medellín | Antioquia) (360p) [Not 24/7]
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Telecafe.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telecafe-mediano.png" group-title="Undefined",Telecafé (Manizales | Caldas)
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://liveingesta118.cdnmedia.tv/telecafelive/smil:dvrlive.smil/playlist.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.imgur.com/jy6NXHI.png",UNO Hd
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/RF49W8x7/CANAL-VISION-DORADA-COL.png",CANAL VISION DORADA
@@ -110,9 +68,6 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.postimg.cc/6ppyBrV5/SE-AL-COLOMBIA.png",SEÑAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Telemedellin.co" tvg-logo="https://i.imgur.com/GnxzRTC.png" group-title="General",Telemedellin (720p) [Not 24/7]
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://liveingesta118.cdnmedia.tv/telemedellintvlive/smil:dvrlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Noticiero90Minutos.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/iBrl0b8.png" group-title="News",Noticiero 90 Minutos (720p) [Not 24/7]
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CO" tvg-language="" tvg-logo="https://i.postimg.cc/YS6vsHrH/ATN-Televisi-n.png" group-title="Undefined",ATN Televisión (Cúcuta | Norte de Santander) (640p)
@@ -129,15 +84,8 @@ https://media2.streambrothers.com:1936/8150/8150/playlist.m3u8
 https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8?hls_ctx=jlpvk1s7
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/JnQTFZpX/VALLENATO-INT.png",Vallenato Internacional
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleAmiga.co" tvg-logo="https://i.imgur.com/3G10KG4.jpg" group-title="Undefined",Tele Amiga (Bogotà | Cundinamarca) (480p) [Not 24/7]
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.ytimg.com/vi/eSZ8fgHiWZ0/hqdefault.jpg",CAMPUSTV
 http://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-id="PSCTelevision.co" tvg-logo="https://psctelevision.com/wp-content/uploads/2020/08/logo-200.png" group-title="Undefined" ,PSC Televisión
-https://cloud28.vsgtech.co:3052/live/psctvlive.m3u8
-#EXTINF:-1 group-title="Colombia" tvg-logo="https://i.postimg.cc/FRpMwMKs/CANAL-2-CALI.png",VALLE TELEVISION
-https://video13.virtualtronics.com/streamer/canal2_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SPg5HX9/o2.png" group-title="Musicales", OXIGENO TV | SD | Venezuela
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wx08wXdd/TELERITMO-2021.png"group-title="MUSICA",TELERITMO
@@ -146,12 +94,8 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 https://tastemade-es8intl-roku.amagi.tv/hls/amagi_hls_data_tastemade-tastemade-es8intl-roku/CDN/playlist.m3u8
 #EXTINF: -1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/jqg3N2Mp/TDI.png",TDI COLOMBIA (936p) [Not 24/7]
 https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
-#EXTINF:-1 group-title="Colombia" tvg-logo="https://pbs.twimg.com/media/BthUbgcCQAEEkML.png",ENLACE JUVENIL
-http://api.new.livestream.com/accounts/4885740/events/2294538/live.m3u8
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.postimg.cc/cH7fnZs4/BUENISIMA-RADIO-ESP.png",BUENISIMA RADIO TV
 https://streamyes.alsolnet.com/buturama/live/playlist.m3u8
-#EXTINF: -1 group-title = "COLOMBIA" tvg-logo = "https://i.postimg.cc/fySp3Jwg/EL-PE-OL.png",TV PEÑOL | HD | ANTIOQUIA
-https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/chunklist_w426009907.m3u8
 #EXTINF: -1 tvg-logo = "https://i.postimg.cc/BvLJ5QQH/CTV-BARRANQUILLA.png" group-title = "Colombia", CTV BARRANQUILLA | HD | 
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/chunklist_w387031486.m3u8
 #EXTINF: -1 tvg-logo = "https://i.postimg.cc/JhJ94yz6/CALI-TV.png" group-title = "Colombia", Cali TV | SD | Cali
@@ -166,24 +110,12 @@ https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
 #EXTINF:-1 tvg-id="119" tvg-name="Canal Trece" tvg-logo="https://i.postimg.cc/qv4v4GnK/canal-13-colombia-2005-1.png", Canal Trece | CO
 https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="TrecePlus.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/2SmPVc0z/05-02-17-logo-Canal-Trece-color-Naranja.png" group-title="COLOMBIA",Trece + (1080p)
-https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="EJTV.cr" tvg-logo="https://i.postimg.cc/wvbYB2dT/Enlace-Juvenil.png" group-title="Religious",Enlace Juvenil (EJTV) (288p) [Not 24/7]
-https://api.new.livestream.com/accounts/ejtvla/events/2294538/live.m3u8
-#EXTINF:-1 tvg-id="EnlaceTelevision.co" tvg-logo="https://i.postimg.cc/SxG5sd6F/ENLACE-TELEVISION-COL.png" group-title="General",Enlace Televisión (Barrancabermeja | Santander) (720p) [Not 24/7]
-https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://teveo.com.co/player/AcAAAgAFAADLA1IAyADIQCAAAAAAAAAA.js
-#EXTINF: -1 tvg-logo = "https://i.postimg.cc/jdmJWXVZ/NORTE-VISION.png"group-title = "COLOMBIA",NORTE VISION HD
-https://eu1.servers10.com:8081/8092/playlist.m3u8
 #EXTINF: -1 tvg-logo = "https://i.postimg.cc/ZnQ5dS32/zoom-tv.png"group-title = "COLOMBIA",ZOOM TV
 https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="News",RT en Español (1080p) [Geo-blocked]
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="CAMPO TELEVISION"tvg-logo="https://i.postimg.cc/MHxDVJnc/CAMPO-TELEVISION.png" group-title="COLOMBIA",Campo Televisión (Santa Marta)
 https://video17.virtualtronics.com/streamer/canalcampotv.m3u8
-#EXTINF:-1 tvg-id="VEO TELEVISION" tvg-logo="https://i.imgur.com/TUhzG2O.png" group-title="COLOMBIA",VEO TELEVISION |Guadalajara de Buga | Valle del Cauca)
-https://movil.ejeserver.com/live/veotv.m3u8
-#EXTINF:-1 tvg-id="UNE TV"tvg-logo="https://i.postimg.cc/TYvvWwjk/image.png" group-title="COLOMBIA",UNE TV
-https://www.amixtv.com:8081/unetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FAMILY CHANNEL"tvg-logo="https://cdn.colombia.com/canales/famili-channel-5336.jpg" group-title="COLOMBIA",FAMILY CHANNEL
 https://cp.panelchs.com:1936/8012/8012/chunklist_w779405687.m3u8
 #EXTINF:-1 tvg-id="PJ RADIO TV"tvg-logo="https://i.postimg.cc/pd1LNFhW/radiotvpj-5865-th.jpg" group-title="COLOMBIA",PJ RADIO TV
