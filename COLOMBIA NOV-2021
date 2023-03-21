@@ -1,3 +1,5 @@
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/htrTt5k3/vision-tv-musica.png",VISION TV HD
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
 #EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://i.postimg.cc/XNLm3y6M/win-sports-azul-celeste.png"group-title="⚽|LAT| Deportes Latino⚽",WIN SPORTS + TV* |HD
 http://200.41.79.165:8000/play/a0js/index.m3u8
 #EXTINF:-1 tvg-id="WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/52dTxKjG/Win-Sports-blanco.png"group-title="⚽|LAT| Deportes Latino⚽",WIN SPORTS + TV* |HD
