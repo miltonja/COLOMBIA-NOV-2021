@@ -6,6 +6,10 @@ http://190.60.37.69:8015/play/a049/index.m3u8
 http://200.110.169.237:8202/play/a04m
 #EXTINF:-1 tvg-id="WINSPRT" tvg-name="CO: Win Sports + FHD" tvg-logo="https://i.postimg.cc/VvT5vGVh/WINSPORTS-ROJO.png" group-title="|CO| Colombia",CO: Win Deportes + FHD
 http://190.131.247.82:8000/play/a06l
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/cLc6cNCd/TOP-MAX.png",TechScience 365 (360p)
+https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/617xnqaJ0QL._RI_.jpg",Xtrema Animal (360p)
+https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
 #EXTINF:-1 tvg-id="1285" tvg-name="La Despechada TV" tvg-logo="https://i.postimg.cc/50S75Zn6/LA-DESPECHADA-BLANCO.png", La Despechada TV | CO
 https://servidordevideo.com:3077/stream/play.m3u8
 #EXTINF:-1 group-title="Samsung TV Plus" tvg-logo="https://i.postimg.cc/59z33y5Q/MASTER-ILUSION.png",MAESTROS DE LA ILUSION
