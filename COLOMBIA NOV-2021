@@ -3,7 +3,7 @@
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
 #EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://i.postimg.cc/XNLm3y6M/win-sports-azul-celeste.png"group-title="⚽|LAT| Deportes Latino⚽",WIN SPORTS + TV* |HD
 http://200.41.79.165:8000/play/a0js/index.m3u8
-#EXTINF:-1 tvg-id="WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/52dTxKjG/Win-Sports-blanco.png"group-title="⚽|LAT| Deportes Latino⚽",WIN SPORTS + TV* |HD
+#EXTINF:-1 tvg-id="WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/Hx1Pg41X/WINSPORTS.png"group-title="⚽|LAT| Deportes Latino⚽",WIN SPORTS TV* |HD
 http://190.60.37.69:8015/play/a049/index.m3u8
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/cLc6cNCd/TOP-MAX.png",TechScience 365 (360p)
 https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
