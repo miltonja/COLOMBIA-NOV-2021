@@ -1,19 +1,17 @@
+#EXTM3U
+
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/htrTt5k3/vision-tv-musica.png",VISION TV HD
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
 #EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://i.postimg.cc/XNLm3y6M/win-sports-azul-celeste.png"group-title="⚽|LAT| Deportes Latino⚽",WIN SPORTS + TV* |HD
 http://200.41.79.165:8000/play/a0js/index.m3u8
 #EXTINF:-1 tvg-id="WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/52dTxKjG/Win-Sports-blanco.png"group-title="⚽|LAT| Deportes Latino⚽",WIN SPORTS + TV* |HD
 http://190.60.37.69:8015/play/a049/index.m3u8
-#EXTINF:-1 tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/v8zC6VCh/win-sports -blanco.png" group-title="|CO| Colombia",CO | ganar deportes +
-http://200.110.169.237:8202/play/a04m
-#EXTINF:-1 tvg-id="WINSPRT" tvg-name="CO: Win Sports + FHD" tvg-logo="https://i.postimg.cc/VvT5vGVh/WINSPORTS-ROJO.png" group-title="|CO| Colombia",CO: Win Deportes + FHD
-http://190.131.247.82:8000/play/a06l
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/cLc6cNCd/TOP-MAX.png",TechScience 365 (360p)
 https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/617xnqaJ0QL._RI_.jpg",Xtrema Animal (360p)
 https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
 #EXTINF:-1 tvg-id="1285" tvg-name="La Despechada TV" tvg-logo="https://i.postimg.cc/50S75Zn6/LA-DESPECHADA-BLANCO.png", La Despechada TV | CO
-https://servidordevideo.com:3077/stream/play.m3u8
+https://servidordevideo.com:3077/live/despechadalive.m3u8
 #EXTINF:-1 group-title="Samsung TV Plus" tvg-logo="https://i.postimg.cc/59z33y5Q/MASTER-ILUSION.png",MAESTROS DE LA ILUSION
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254ab6fa74f8e0007ba6879/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF: -1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/qRzwz4pC/Cable-Noticias-azul.png",Cablenoticias |Bogotà |
@@ -30,8 +28,6 @@ https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1 group-title="REALITY" tvg-logo="https://i.postimg.cc/x1981wXY/MTV-ESP.png", MTV LATINO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e1eb0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=180d9c2e-993f-4454-ac06-0f43e4f8058c&userId=&serverSideAds=true
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/rwcDgkzS/AAA-BEIN-SPORTS.png",Bein Sport Xtra Español
-https://beinesp-roku.amagi.tv/playlist.m3u8
 #EXTINF: -1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/cCtVgwKK/FUTBOL-NEW-YORK-ESP.png", Futbol Network | HD | Estados Unidos
 https://59d39900ebfb8.streamlock.net/8312/8312/playlist.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="https://i.postimg.cc/m24dsdvH/Panamericana.png", Panamericana | SD | Lima
@@ -48,6 +44,8 @@ https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
 http://iptvcolombia.ddns.net:1936/ranchenato/ranchenato_360p/chunklist_w1171414734.m3u8
 #EXTINF:-1 group-title="Latinos" tvg-logo="https://i.postimg.cc/gJxBV9tR/HOLA-PLAY-ESP.png",HOLA-2-ESP /HD/
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Canales Solo Ip Colombia" tvg-logo="https://i.imgur.com/vVBz2v6.png",RED MAS 
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/01.m3u8
 #EXTINF:-1 group-title="CINE" tvg-logo="https://www.pngkit.com/png/full/642-6427641_delta-tv-youtube-channel-television.png",DELTA TV
 https://cm.hostlagarto.com:4445/deltatv/deltatv50.myStream/chunks.m3u8
 #EXTINF:-1 tvg-id="MemoriasTV.co" tvg-logo="https://i.postimg.cc/jSQtnhGL/MEMORIAS-TV-esp.png"group-title="Music",Memorias TV
@@ -124,11 +122,3 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 https://video17.virtualtronics.com/streamer/canalcampotv.m3u8
 #EXTINF:-1 tvg-id="FAMILY CHANNEL"tvg-logo="https://cdn.colombia.com/canales/famili-channel-5336.jpg" group-title="COLOMBIA",FAMILY CHANNEL
 https://cp.panelchs.com:1936/8012/8012/chunklist_w779405687.m3u8
-#EXTINF:-1 tvg-id="PJ RADIO TV"tvg-logo="https://i.postimg.cc/pd1LNFhW/radiotvpj-5865-th.jpg" group-title="COLOMBIA",PJ RADIO TV
-https://vdo.panelstreaming.live:3363/stream/play.m3u8
-
-
-
-
-
-
