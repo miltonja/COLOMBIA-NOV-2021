@@ -61,7 +61,7 @@ https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/chunklist_w387031486.m3
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleSanJacinto.co" tvg-logo="https://www.telesanjacinto.com/wp-content/uploads/2022/04/logo-3@4x.png" group-title="Undefined",Tele San Jacinto
 https://video.ejeserver.com/live/telesanjacinto.m3u8
-#EXTINF:-1 tvg-id="Teleislas.co" tvg-country="CO-SAP" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/DzCPzymN/TELEISLAS.png" group-title="General",Teleislas (486p) [Not 24/7]
+#EXTINF:-1 tvg-id="Teleislas.co" tvg-country="CO-SAP" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/DzCPzymN/TELEISLAS.png" group-title="General",Teleislas 
 https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
 #EXTINF:-1 tvg-id="UNOPLAY.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RReDi1C.png" group-title="Entertainment",UNO PLAY (720p) [Not 24/7]
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
