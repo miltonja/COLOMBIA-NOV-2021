@@ -4,7 +4,15 @@ https://insighttv-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png", VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/2SP10Srw/caracol-logo-blanco.png",CARACOL NOTICIAS TV
+http://190.60.40.37:12500/play/a06b/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/2SP10Srw/caracol-logo-blanco.png",CARACOL NOTICIAS TV
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/2SP10Srw/caracol-logo-blanco.png",CARACOL NOTICIAS TV
+http://190.60.40.37:12500/play/a0be/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/MTqdFtHv/RCN-MAS-internacional.png",RCN HD
+http://190.61.42.218:9000/play/a057
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/MTqdFtHv/RCN-MAS-internacional.png",RCN HD
+http://190.61.42.218:9000/play/a058
 #EXTINF:-1 group-title="REALITY" tvg-logo="https://i.postimg.cc/x1981wXY/MTV-ESP.png", MTV LATINO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e1eb0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=180d9c2e-993f-4454-ac06-0f43e4f8058c&userId=&serverSideAds=true
 #EXTINF: -1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/cCtVgwKK/FUTBOL-NEW-YORK-ESP.png", Futbol Network | HD | Estados Unidos
@@ -13,6 +21,8 @@ https://59d39900ebfb8.streamlock.net/8312/8312/playlist.m3u8
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.imgur.com/jy6NXHI.png",UNO Hd
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.imgur.com/jy6NXHI.png",UNO Hd
+http://190.61.42.218:9000/play/a04u
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/RF49W8x7/CANAL-VISION-DORADA-COL.png",CANAL VISION DORADA
 https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1w7dSu.png" group-title="Musicales", RANCHENATO TV| SD | Colombia
